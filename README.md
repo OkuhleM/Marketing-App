@@ -1,0 +1,2 @@
+# Marketing-App
+in this App an individual will have to fill in their details in the form  which will be in the first screen. The second screen will be a table with available advertised jobs if the user chose looking for a job in the 1st screen . If the user chose advertise then the screen will go to the screen with a new form that will enable the advertiser to post the job which they're advertising when they click on the submit button the information will be captured in the Job List table.
